@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avval Yadav
+- 👋 Hi, I’m @AvvalDeveloper
 - 👀 I’m interested in learning Android Application Development
 - 🌱 I’m currently learning Java Programming Language
 - 💞️ I’m looking to collaborate on Android Applications
