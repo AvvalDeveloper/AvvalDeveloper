@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AvvalDeveloper
+- 👋 Hi, I’m Avval Yadav
 - 👀 I’m interested in learning Android Application Development
 - 🌱 I’m currently learning Java Programming Language
-- 💞️ I’m looking to collaborate on Android Applications
+- 💞️ I’m looking to collaborate in Android Applications
 - 📫 You can reach me through Email - yadavavval@gmail.com
 
 <!---
