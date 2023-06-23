@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Avval Yadav
-- 👀 I’m interested in learning Mobile & Web Application Development
-- 🌱 I’m currently learning Java Programming Language
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently working on Java 
 - 💞️ I’m looking to collaborate in Android Applications
-- 👉 You can reach me through LinkedIn - [yadavavval@gmail.com](https://www.linkedin.com/in/avvalyadav/)
+- 👉 You can reach me through LinkedIn - (https://www.linkedin.com/in/avvalyadav/)
 - 📫 You can also reach me through Email - yadavavval@gmail.com
 
 <!---
