@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning Mobile & Web Application Development
 - 🌱 I’m currently learning Java Programming Language
 - 💞️ I’m looking to collaborate in Android Applications
-- 📫 You can reach me through Email - yadavavval@gmail.com
+- 👉 You can reach me through LinkedIn - [yadavavval@gmail.com](https://www.linkedin.com/in/avvalyadav/)
+- 📫 You can also reach me through Email - yadavavval@gmail.com
 
 <!---
 AvvalDeveloper/AvvalDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
